@@ -1,2 +1,3 @@
 # my-personal-portfolio
-Tech Stack - HTML - CSS - JavaScript  , Features - Responsive design - Project showcase 
+This is my first personal portfolio website created using HTML and CSS.
+The purpose of this project is to showcase my skills, projects, and basic web development knowledge.
