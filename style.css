@@ -1,0 +1,172 @@
+body{
+    background-color: #fafafa;
+    opacity: 0.8;
+     background-blend-mode: luminosity;
+     color:#374151;
+     font-family:Arial, Helvetica, sans-serif;
+}
+.pic
+{
+    width: 180px;
+    height:190px;
+    border-radius: 6px;
+    object-fit: cover;
+    top: 130px;
+    right:20px;
+     position: absolute;
+    border:2px solid #ccc;
+    
+
+
+}
+h1{
+    color: #d9466f;
+    text-align: center;
+    margin-left: 20px;
+    border-style: bold;
+    border-width: medium;
+    border-color: rgb(203, 22, 22);
+}
+P{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;/* hmm */
+    text-align: center;
+}
+
+
+#section1{
+    color: brown;
+    text-align: left ;
+    padding: 20px;
+    border-left: 6px solid red;
+
+}
+
+#section2{
+    color:black;
+
+}
+#contacts{
+    box-sizing: border-box;
+    border: 2px solid tomato;
+}
+
+h2{
+    color:#bd1919;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Segoe UI", Tahoma, sans-serif;
+}
+
+/* Body styling */
+body {
+    background-color: #f4f6f8;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+/* Header section */
+header {
+    background-color: #1e293b;
+    color: #ffffff;
+    text-align: center;
+    padding: 30px 20px;
+    border-radius: 10px;
+}
+
+header h1 {
+    font-size: 2.2rem;
+    margin-bottom: 10px;
+}
+
+header h2 {
+    font-size: 1.5rem;
+}
+
+#about {
+    font-style:initial;
+    text-align: left;
+    
+}
+
+/* Profile image */
+.pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    border: 4px solid #ffffff;
+    object-fit: cover;
+    top:100px;
+    right:40px;
+}
+
+/* Common section styling */
+section,
+.educational,
+.objective {
+    background-color: #ffffff;
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 800px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+}
+
+/* Section headings */
+h2,
+h4 {
+    color: #1e293b;
+    margin-bottom: 10px;
+}
+
+/* Lists */
+ul {
+    margin-left: 20px;
+}
+
+ul li {
+    margin-bottom: 8px;
+}
+
+/* Pre text formatting */
+pre {
+    white-space: pre-wrap;
+    font-size: 0.95rem;
+}
+
+/* Horizontal line */
+hr {
+    border: none;
+    height: 1px;
+    background-color: #cbd5e1;
+    margin: 20px 0;
+}
+
+/* Footer */
+footer {
+    background-color: #1e293b;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+footer h2 {
+    margin-bottom: 10px;
+}
+
+footer pre {
+    font-size: 0.95rem;
+}
+h2 {
+    font-size: 1.6rem;
+    color: #1e40af;
+    text-align: left;
+    
+}
+
